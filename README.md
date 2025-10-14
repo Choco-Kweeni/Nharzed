@@ -1,3 +1,5 @@
+//Pagdownload og XAMPP v3.3.0
+
 //Pag Himo og database, igo ra ni nimo i paste
 
 CREATE DATABASE user_db;
