@@ -1,4 +1,8 @@
+//i download ang ang file
+
 //Pagdownload og XAMPP v3.3.0
+
+//file directory: C:\xampp\htdocs\Nharzed(diri i sulod ang file)
 
 //Pag Himo og database, igo ra ni nimo i paste
 
@@ -12,3 +16,6 @@ CREATE TABLE users (
     email VARCHAR(100) UNIQUE,
     password VARCHAR(255)
 );
+
+-i run dayun sa google chrome or bisag unsa
+http://localhost/Nharzed/index.php
